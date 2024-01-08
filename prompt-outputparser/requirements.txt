@@ -1,0 +1,5 @@
+langchain
+huggingFace_hub
+streamlit
+python-dotenv
+faiss-cpu
