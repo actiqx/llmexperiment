@@ -1,0 +1,3 @@
+langchain
+huggingFace_hub
+streamlit
